@@ -1,2 +1,5 @@
-#Flush the DNS Server cache (via an SSH session)... 
-sudo /volume1/@appstore/DNSServer/script/flushcache.sh
+Tasks:
+
+Flush the DNS Server cache (via an SSH session)
+
+flush-dns-cache.sh
