@@ -1,5 +1,5 @@
-Tasks:
+Tasks
 
-Flush the DNS Server cache (via an SSH session)
+Flush the DNS Server cache:
 
 flush-dns-cache.sh
